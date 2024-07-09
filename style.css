@@ -1,3 +1,19 @@
-p{
-    color: blue;
+.blog{
+    color: rgb(0, 0, 12);
+    border: 2px solid rgb(97, 1, 1);
+    margin: 20px;
+    padding: 50px;
+    text-align: center;
+    font-size: larger;
+    background-color: aquamarine;
+    box-shadow: 10Px 10px 10Px brown;
+
+}
+.ol{
+    border: 2px solid rgb(13, 4, 0);
+    margin: 20px;
+    padding: 30Px;
+    background-color: gold;
+    font-size:calc(30Px);
+    box-shadow: 10px 10px 10px  rgb(134, 36, 1);
 }
