@@ -12,8 +12,9 @@
 .ol{
     border: 2px solid rgb(13, 4, 0);
     margin: 20px;
-    padding: 30Px;
+    padding: 35Px;
     background-color: gold;
     font-size:calc(30Px);
     box-shadow: 10px 10px 10px  rgb(134, 36, 1);
+
 }
